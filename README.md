@@ -41,10 +41,10 @@ false
 
 ```
 12345.67
-doze mil, trezentos e quarenta e cinco reais e sessenta e sete centavos
+doze mil e trezentos e quarenta e cinco reais e sessenta e sete centavos
 
 1234.56
-um mil, duzentos e trinta e quatro reais e cinquenta e seis centavos
+mil e duzentos e trinta e quatro reais e cinquenta e seis centavos
 
 123.45
 cento e vinte e três reais e quarenta e cinco centavos
